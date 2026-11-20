@@ -131,7 +131,9 @@ $ ./sem.o
 
 
 $ ipcs
+<img width="584" height="508" alt="image" src="https://github.com/user-attachments/assets/c2557c50-6d8d-49d6-9631-011299d43b2c" />
 
+<img width="659" height="262" alt="image" src="https://github.com/user-attachments/assets/8682739f-7647-483e-a8b3-174516edac49" />
 
 
 
